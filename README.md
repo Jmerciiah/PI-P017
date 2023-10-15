@@ -1,1 +1,2 @@
-# PI-P017
+## Atividade Prática PI-P017.
+Práticas de Class. (Orientação a objetos c++).##
